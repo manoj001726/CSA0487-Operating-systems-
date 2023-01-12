@@ -17,4 +17,4 @@ int main()
 	pthread_join(thread_id, NULL);
 	printf("After Thread\n");
 	exit(0);
-}11
+}
